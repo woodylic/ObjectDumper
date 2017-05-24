@@ -6,7 +6,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
 
-// See the ReadMe.html for additional information
 public class ObjectDumper
 {
 
