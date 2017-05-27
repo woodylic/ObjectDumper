@@ -4,7 +4,7 @@ This is a util class for print all properties of an object (when debugging).
 
 ## Usage
 
-```
+```CSharp
 var obj = new SomeComplexClass
 {
   Property1 = 123,
